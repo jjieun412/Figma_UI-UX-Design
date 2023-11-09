@@ -1,5 +1,4 @@
 # Figma project
-<br><br>
 
 ## 시연영상
 https://youtu.be/n32ysumxDk0
