@@ -1,4 +1,4 @@
-# Figma_UI_design
+# Figma project
 <br><br>
 
 ## 시연영상
